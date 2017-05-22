@@ -1,0 +1,6 @@
+{
+	"require":{
+		"php" : "^5.6",
+		"kevinlebrun/slug.php": "1.*"		
+	}
+}
